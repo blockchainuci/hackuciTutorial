@@ -1,0 +1,21 @@
+{
+  "name": "hackuciTutorial",
+  "version": "2.0.0",
+  "description": "A simple ethereum blockchain application using of solidity, smart contracts, and the truffle framework for introductory blockchain development.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blockchainuci/hackuciTutorial.git"
+  },
+  "author": "",
+  "homepage": "https://github.com/blockchainuci/hackuciTutorial#readme",
+  "dependencies": {
+    "web3": "^1.0.0-beta.34"
+  }
+}
