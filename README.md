@@ -28,3 +28,18 @@ INSTALLATION:
 6. Install dependencies 
 
         npm install
+
+
+## Relevant links:
+
+A great guide to all things blockchain development! :
+
+    https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc
+
+A tutorial explaining the simple counter contract we've developed here today:
+
+    https://medium.com/coinmonks/getting-started-with-ethereum-blockchain-development-part-1-d6543b441bea
+        
+A tutorial building on the counter contract into a Web3 application:
+
+    http://demystifyblockchain.com/2018/06/29/getting-started-with-ethereum-blockchain-development/
